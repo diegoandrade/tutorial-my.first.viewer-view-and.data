@@ -4,7 +4,7 @@
 Finally, we'll add some animation - orbiting the camera around the model.
 We'll take a simple approach using the JavaScript setInterval method.
 For a more robust approach, take a look at the blog post article describing
-[http://adndevblog.typepad.com/cloud_and_mobile/2015/04/how-to-create-animations-in-the-viewer.html](how to create animations in the viewer).
+[http://adndevblog.typepad.com/cloud_and_mobile/2015/04/how-to-create-animations-in-the-viewer.html](how to create animations in the viewer). //THIS IS A BROKEN LINK
 
 Add a property the extension to hold the interval id, so we can cancel it.
 
